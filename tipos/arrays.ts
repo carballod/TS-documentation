@@ -6,4 +6,6 @@
 
     villians.forEach( villian => console.log(villian.toUpperCase()) );
 
+    numbers.forEach( v => console.log(v) );
+
 })();
